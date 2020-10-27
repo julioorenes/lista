@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" logo="https://image.winudf.com/v2/image1/Y29tLnRkdG9ubGluZS5zcGFpbl9pY29uXzE1NzI2NDc2NDBfMDkz/icon.png?w=170&fakeurl=1", TDT SP
+
+#EXTINF:0 type="stream" channelId="2813" group="TDT SP", LA 1 HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1915
+#EXTINF:0 type="stream" channelId="1321" group="TDT SP", LA 2
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1914
+#EXTINF:0 type="stream" channelId="2124" group="TDT SP", ANTENA 3
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1913
+#EXTINF:0 type="stream" channelId="1679" group="TDT SP", CUATRO HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1912
+#EXTINF:0 type="stream" channelId="2527" group="TDT SP", TELECINCO
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1911
+#EXTINF:0 type="stream" channelId="2816" group="TDT SP", LA SEXTA HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1910
+#EXTINF:0 type="stream" channelId="1685" group="TDT SP", FDF
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1903
+#EXTINF:0 type="stream" channelId="1683" group="TDT SP", ENERGY
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1862
+#EXTINF:0 type="stream" channelId="1695" group="TDT SP" size="Small", NEOX
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1815
+#EXTINF:0 type="stream" channelId="2819" group="TDT SP", MEGA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1899
+#EXTINF:0 type="stream" channelId="3639" group="TDT SP", BE MAD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1873
+#EXTINF:0 type="stream" channelId="1682" group="TDT SP", DIVINITY
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1863
+#EXTINF:0 type="stream" channelId="-1" group="TDT SP", CLAN TVE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1902
+#EXTINF:0 type="stream" channelId="-1" group="TDT SP", BOING
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1902
+#EXTINF:0 type="stream" channelId="-1" group="TDT SP" logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png", CANAL SUR A.
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1909
+#EXTINF:0 type="stream" channelId="-1" group="TDT SP" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1200px-Logo_TVE-HD.svg.png", TVE INTERNACIONAL HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1916
+#EXTINF:0 type="stream" channelId="1323" group="TDT SP", CANAL 24 HORAS
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1907
+#EXTINF:0 type="stream" channelId="1323" group="TDT SP", 24 HORAS
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1905
+#EXTINF:0 type="stream" channelId="-1", 
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.vippng.com/png/full/423-4231762_movistar-plus-logo-png-movistar-logo-png.png", MOVISTAR +
+
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png", #0 HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1882
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://lh3.googleusercontent.com/proxy/EZZmNHkLEc2G-J4psThRUE_i20AhXgYwWJ7Cvp4FJrvmkZs4ExrvUAGZ5XCmUPiqSkAGj-Iqb86wg7V8jzYsHJLHhZX8vYR2_4tJnFHKiHFnZ7GDjIMHiRiwAxf6lzvK8L4", #VAMOS HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1898
+#EXTINF:0 type="stream" channelId="1191" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Comedy_Central_HD_Logo_2018.svg/1200px-Comedy_Central_HD_Logo_2018.svg.png", COMEDYCENTRAL HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1893
+#EXTINF:0 type="stream" channelId="208" group="MOVISTAR", FOX HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1885
+#EXTINF:0 type="stream" channelId="178" group="MOVISTAR", FOX LIFE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1884
+#EXTINF:0 type="stream" channelId="1317" group="MOVISTAR", FOX NEWS
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1883
+#EXTINF:0 type="stream" channelId="2501" group="MOVISTAR", AMC HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1881
+#EXTINF:0 type="stream" channelId="2246" group="MOVISTAR", AXN HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1878
+#EXTINF:0 type="stream" channelId="3131" group="MOVISTAR", AXN WHITE HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1877
+#EXTINF:0 type="stream" channelId="73" group="MOVISTAR", SYFY
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1876
+#EXTINF:0 type="stream" channelId="2131" group="MOVISTAR", TMC
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1875
+#EXTINF:0 type="stream" channelId="1052" group="MOVISTAR", TNT
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1874
+#EXTINF:0 type="stream" channelId="3462" group="MOVISTAR", BLAZE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1872
+#EXTINF:0 type="stream" channelId="1668" group="MOVISTAR", CALLE 13 HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1871
+#EXTINF:0 type="stream" channelId="3920" group="MOVISTAR", HOLLYWOOD HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1901
+#EXTINF:0 type="stream" channelId="1719" group="MOVISTAR", PARAMOUNT
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1814
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png", M. ESTRENOS HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1839
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acción.svg/1280px-Movistar_Acción.svg.png" size="Small", M. ACCION HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1630
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", M. COMEDIA HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1841
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Español.svg/1280px-Movistar_Cine_Español.svg.png", M. CINE Ñ
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1842
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1134px-Movistar_Drama.svg.png", M. DRAMA HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1840
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Movistar_CineDoc%26Roll.svg/1726px-Movistar_CineDoc%26Roll.svg.png", M. CINEDOC&ROLL HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1837
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1419px-Movistar_Series.svg.png", M. SERIES HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1836
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_Seriesman%C3%ADa.svg/1571px-Movistar_Seriesman%C3%ADa.svg.png", M. SERIESMANIA HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1835
+#EXTINF:0 type="stream" channelId="-1" group="FUTBOL ES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Movistar_Partidazo.svg/1280px-Movistar_Partidazo.svg.png", M.PARTIDAZO HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1845
+#EXTINF:0 type="stream" channelId="-1" group="FUTBOL ES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png", M.LCAMPEONES
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1860
+#EXTINF:0 type="stream" channelId="-1" group="FUTBOL ES" logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/101/Logotipo_M%20LaLiga1_Negativo_RGB.png", M. LALIGA 1 HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/31269
+#EXTINF:0 type="stream" channelId="-1" group="FUTBOL ES" logo="https://www.mundoplus.tv/img/bdb5d90ec8aedb7c63565c04a200095d", M. LALIGA 2 HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/31271
+#EXTINF:0 type="stream" channelId="-1" group="FUTBOL ES" logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/103/Logotipo_M%20LaLiga3_Negativo_RGB.png", M. LALIGA 3 HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/31273
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png", M. DEPORTES HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1833
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png/revision/latest?cb=20160818140550", M. DEPORTES 2
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1832
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1567683528553", M. FORMULA1 HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1848
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://imgbox.es/images/2020/01/24/movistar_es_golfb407ec788c6ba45f.png", M. GOLF HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1846
+#EXTINF:0 type="stream" channelId="-1" group="FUTBOL ES" logo="https://laligatvbar.es/meta-image.jpg", LALIGA TV BAR
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1859
+#EXTINF:0 type="stream" channelId="-1" group="FUTBOL ES" logo="https://laligatvbar.es/meta-image.jpg", LALIGA TV BAR 1
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1858
+#EXTINF:0 type="stream" channelId="-1" group="FUTBOL ES" logo="https://e7.pngegg.com/pngimages/752/349/png-clipart-la-liga-bein-sports-3-streaming-media-others-purple-television.png", BEIN LALIGA HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1857
+#EXTINF:0 type="stream" channelId="-1" group="FUTBOL ES" logo="https://e7.pngegg.com/pngimages/752/349/png-clipart-la-liga-bein-sports-3-streaming-media-others-purple-television.png", BEIN LA LIGA 1
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1856
+#EXTINF:0 type="stream" channelId="225" group="DEPORTES", EUROSPORT1 HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1855
+#EXTINF:0 type="stream" channelId="83" group="DEPORTES", EUROSPORT 2
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1853
+#EXTINF:0 type="stream" channelId="3641" group="FUTBOL ES", GOL
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1852
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://miro.medium.com/max/1620/1*kp5t90EThKyweMFUPFfBJg.jpeg", CANAL ODISEA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1868
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://images.squarespace-cdn.com/content/v1/5643127ee4b07a45a8661781/1544050892881-YFSKD0DD84JU2FILVG9Y/ke17ZwdGBToddI8pDm48kEBWUcr6viIjPH4G1p0HUY4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcT4E_IMI9msV3wtEYF39Jnvdg-yjjzee8JsOexAxrkbBjWDgmI2uyk1Z8aBtuxwAZ/Caza-y-Pesca-Logotipo-2016.png", CAZAYPESCA HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1867
+#EXTINF:0 type="stream" channelId="57" group="MOVISTAR", DISCOVERY
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1819
+#EXTINF:0 type="stream" channelId="207" group="MOVISTAR", NAT GEO HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1818
+#EXTINF:0 type="stream" channelId="206" group="MOVISTAR", NAT GEO WILD HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1816
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png", VIAJAR HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1812
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Png-transparent-history-en-espanol-television-channel-logo-others-television-text-logo.png", HISTORIAS
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1811
+#EXTINF:0 type="stream" channelId="151" group="MOVISTAR", VH1
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1813
+#EXTINF:0 type="stream" channelId="1973" group="MOVISTAR", MTV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1826
+#EXTINF:0 type="stream" channelId="4450" group="MOVISTAR", MTV DANCE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1825
+#EXTINF:0 type="stream" channelId="1973" group="MOVISTAR", MTV ESPAÑA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1824
+#EXTINF:0 type="stream" channelId="289" group="MOVISTAR", MTV HITS
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1823
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1044px-MTV_Rocks_2017_logo.svg.png", MTV ROCK
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1822
+#EXTINF:0 type="stream" channelId="2054" group="MOVISTAR", SUNDANCE TV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1821
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR", BABY TV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1896
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR", CANAL PANDA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1894
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png", DISNEY CH HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1892
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Disney_Junior_logo_2011.png/1200px-Disney_Junior_logo_2011.png", DISNEY JR
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1891
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR", DISNEY
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1890
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR", NICK JR
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1889
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR", NICK/MTV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1888
+#EXTINF:0 type="stream" channelId="-1" group="MOVISTAR", NICKELODEON HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/1887
